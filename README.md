@@ -6,8 +6,8 @@ Hi there 👋
 - 👯 I’m looking to collaborate on projects related to data: cleaning, visualisation, science, etc.
 
  ## 📫 How to reach me:
- ![](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/adityush007/)
- ![](https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white)](mailto:adityush007@gmail.com)
+ [![](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/adityush007/)]
+ [![](https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white)](mailto:adityush007@gmail.com)]
 
  ## My Tech Stack
  ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
