@@ -18,5 +18,8 @@ Hi there 👋
  ![GIT](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
  ## My GitHub Stats
-![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adityush007)
-![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=adityush007)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adityush007&theme=dracula) 
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=adityush007&theme=dracula) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=adityush007&theme=dracula)
