@@ -4,7 +4,7 @@ Hi there 👋
 -->
 - 🌱 I’m currently learning Data Analytics/Science
 - 👯 I’m looking to collaborate on projects related to data: cleaning, visualisation, science, etc.
-- 
+
 -   Resume: [![](https://img.shields.io/badge/PDF-CV-red?style=flat-square&logo=adobe)](https://drive.google.com/file/d/1opZxvZ9aiYYLTDEezDc1piCU2Fjm0rlT/view?usp=share_link) 
 
  ## 📫 How to reach me:
