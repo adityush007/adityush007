@@ -35,3 +35,5 @@ Hi there 👋
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=adityush007&theme=dracula) 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=adityush007&theme=dracula)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adityush007a&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
