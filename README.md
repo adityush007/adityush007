@@ -6,12 +6,14 @@ Hi there 👋
 - 👯 I’m looking to collaborate on projects related to data: cleaning, visualisation, science, etc.
 
 -   Resume: [![](https://img.shields.io/badge/PDF-CV-red?style=flat-square&logo=adobe)](https://drive.google.com/file/d/1opZxvZ9aiYYLTDEezDc1piCU2Fjm0rlT/view?usp=share_link) 
+- <p align="left"> <img src="https://komarev.com/ghpvc/?username=adityush007&label=Profile%20views&color=0e75b6&style=flat" alt="Aditya Kumar Dubey" /> </p>
 
  ## 📫 How to reach me:
  [![](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/adityush007/)
  [![](https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white)](mailto:adityush007@gmail.com)
 
- ## My Tech Stack
+ ## 💻 My Tech Stack
+
  ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
  ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
  ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
@@ -29,9 +31,10 @@ Hi there 👋
  ![GIT](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
  ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 
- ## My GitHub Stats
+ ## 📈 My GitHub Stats
+ 
+| <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adityush007&theme=tokyonight" alt=""> | <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=adityush007&theme=tokyonight" alt=""> |
+| ------------- | ------------- |
+| <img src="https://github-readme-streak-stats.herokuapp.com/?user=adityush007&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true" /> | <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=adityush007&theme=tokyonight" alt=""> |
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adityush007&theme=dracula) 
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=adityush007&theme=dracula) 
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=adityush007&theme=dracula)
+<img width="100%" src="https://github-readme-activity-graph.cyclic.app/graph?username=adityush007&theme=dracula" />
