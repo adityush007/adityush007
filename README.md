@@ -30,11 +30,12 @@ Hi there 👋
  ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
  ![GIT](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
  ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
-
+ ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)
+ ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
+ ![microsoft-sql-server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+ 
  ## 📈 My GitHub Stats
  
 | <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adityush007&theme=tokyonight" alt=""> | <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=adityush007&theme=tokyonight" alt=""> |
 | ------------- | ------------- |
 | <img src="https://github-readme-streak-stats.herokuapp.com/?user=adityush007&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true" /> | <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=adityush007&theme=tokyonight" alt=""> |
-
-<img width="100%" src="https://github-readme-activity-graph.cyclic.app/graph?username=adityush007&theme=dracula" />
