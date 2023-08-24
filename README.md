@@ -2,10 +2,10 @@ Hi there 👋
 <!--
 **adityush007/adityush007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-- 🌱 I’m currently learning Data Analytics/Science
-- 👯 I’m looking to collaborate on projects related to data: cleaning, visualisation, science, etc.
+- 🌱 I’m currently learning Data Analytics/Science.
+- 👯 I’m looking to collaborate on projects related to data: cleaning, visualization, science, etc.
 
--   Resume: [![](https://img.shields.io/badge/PDF-CV-red?style=flat-square&logo=adobe)](https://drive.google.com/file/d/1opZxvZ9aiYYLTDEezDc1piCU2Fjm0rlT/view?usp=share_link) 
+-   Resume: [![](https://img.shields.io/badge/PDF-CV-red?style=flat-square&logo=adobe)](https://drive.google.com/file/d/1_r9HFD0j6q9tkfxlZbqmdq704SvQGJCI/view?usp=sharing) 
 - <p align="left"> <img src="https://komarev.com/ghpvc/?username=adityush007&label=Profile%20views&color=0e75b6&style=flat" alt="Aditya Kumar Dubey" /> </p>
 
  ## 📫 How to reach me:
